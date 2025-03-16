@@ -18,8 +18,9 @@ import (
 
 var FMTVars = []string{
 	":SITE",
-	":MODEL_NAME", // name of the model
-	// DATE will be yyyy-mm-dd
+	":MODEL_NAME", // null, Latina)
+	// 0311/2025
+DATE will be yyyy-mm-dd
 	":DATE_STREAM_STARTED",
 	":DATE_DOWNLOAD_STARTED",
 	// TIME hh.mm.ss
